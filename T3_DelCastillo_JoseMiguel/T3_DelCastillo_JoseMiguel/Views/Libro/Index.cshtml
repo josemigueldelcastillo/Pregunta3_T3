@@ -17,9 +17,9 @@
         </div>
     </div>
 
-    <br/>
+    <br />
 
-    @if (Model.Count() >0)
+    @if (Model.Any())
     {
         <table class="table table-bordered table-striped" style="width:100%">
             <thead>
@@ -31,30 +31,28 @@
                     <th>Año de publicación</th>
                     <th>Paginas</th>
                     <th>Categoria</th>
-                    <th></th>
+                    <th>Acciones</th>
                 </tr>
-                
             </thead>
-
             <tbody>
-                @foreach(var item in Model)
+                @foreach (var item in Model)
                 {
                     <tr>
-                        <th width="30%">@item.Titulo</th>
-                        <th width="30%">@item.Autor</th>
-                        <th width="30%">@item.Tema</th>
-                        <th width="30%">@item.Editorial</th>
-                        <th width="20%">@item.AnioPublicacion</th>
-                        <th width="20%">@item.Paginas</th>
-                        <th width="30%">@item.Categoria</th>
-                        <th>
+                        <td width="30%">@item.Titulo</td>
+                        <td width="30%">@item.Autor</td>
+                        <td width="30%">@item.Tema</td>
+                        <td width="30%">@item.Editorial</td>
+                        <td width="20%">@item.AnioPublicacion</td>
+                        <td width="20%">@item.Paginas</td>
+                        <td width="30%">@item.Categoria</td>
+                        <td>
                             <div class="w-75 btn-group" role="group">
                                 <a asp-controller="Libro" asp-action="Editar" asp-route-Id="@item.Id" class="btn btn-primary mx-2">Editar</a>
                                 <a asp-controller="Libro" asp-action="Eliminar" asp-route-Id="@item.Id" class="btn btn-primary mx-2">Eliminar</a>
+                                <button class="btn btn-primary mx-2" onclick="obtenerResumenPorNombre('@item.Titulo')">Resumir</button>
                             </div>
-                        </th>
+                        </td>
                     </tr>
-
                 }
             </tbody>
         </table>
@@ -63,5 +61,34 @@
     {
         <p>No hay registros de Libros</p>
     }
-
 </div>
+
+<div id="resumenDiv" class="container pt-3">
+    <h3>Resumen Chat-GPT:</h3>
+    <textarea id="resumenText" class="form-control" rows="5" readonly></textarea>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    function obtenerResumenPorNombre(nombre) {
+        $.ajax({
+            type: "POST",
+            url: '@Url.Action("ObtenerResumenPorNombre", "Libro")',
+            data: { nombre: nombre },
+            success: function (data) {
+                if (data.resumen) {
+                    $('#resumenText').val(data.resumen);
+                } else {
+                    $('#resumenText').val('No se encontró el libro.');
+                }
+            },
+            error: function (xhr, status, error) {
+                console.error("Error en la solicitud AJAX:", xhr.status, xhr.statusText, error);
+                $('#resumenText').val('Ocurrió un error al intentar obtener el resumen: ' + xhr.statusText);
+            }
+
+        });
+    }
+</script>
+
+

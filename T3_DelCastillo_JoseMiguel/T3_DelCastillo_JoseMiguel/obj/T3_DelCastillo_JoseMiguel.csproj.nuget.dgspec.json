@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj": {}
+    "D:\\UPN\\Diseño y Arquitectura de Software\\Examenes\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj": {}
   },
   "projects": {
-    "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj": {
+    "D:\\UPN\\Diseño y Arquitectura de Software\\Examenes\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj",
+        "projectUniqueName": "D:\\UPN\\Diseño y Arquitectura de Software\\Examenes\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj",
         "projectName": "T3_DelCastillo_JoseMiguel",
-        "projectPath": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\obj\\",
+        "projectPath": "D:\\UPN\\Diseño y Arquitectura de Software\\Examenes\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\UPN\\Diseño y Arquitectura de Software\\Examenes\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,6 +71,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "OpenAI": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "OpenAI.API": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
@@ -91,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

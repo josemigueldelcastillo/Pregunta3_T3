@@ -4,7 +4,9 @@ namespace T3_DelCastillo_JoseMiguel.Models
 {
     public class Libro
     {
+
         [Key]
+
         public int Id { get; set; }
         [Required(ErrorMessage = "El titulo del libro es obligatorio.")]
         public string Titulo { get; set; }
