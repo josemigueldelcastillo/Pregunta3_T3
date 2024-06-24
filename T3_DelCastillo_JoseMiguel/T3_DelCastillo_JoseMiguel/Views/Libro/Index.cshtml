@@ -1,0 +1,67 @@
+﻿@model IEnumerable<T3_DelCastillo_JoseMiguel.Models.Libro>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<div class="container pt-3">
+    <div class="row pt-4">
+        <div class="col-6">
+            <h2 class="text-primary">Lista de Libros</h2>
+        </div>
+        <div class="col-6">
+            <a asp-controller="Libro" asp-action="Crear" class="btn btn-primary">Nuevo Libro</a>
+        </div>
+    </div>
+
+    <br/>
+
+    @if (Model.Count() >0)
+    {
+        <table class="table table-bordered table-striped" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Titulo</th>
+                    <th>Autor</th>
+                    <th>Tema</th>
+                    <th>Editorial</th>
+                    <th>Año de publicación</th>
+                    <th>Paginas</th>
+                    <th>Categoria</th>
+                    <th></th>
+                </tr>
+                
+            </thead>
+
+            <tbody>
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <th width="30%">@item.Titulo</th>
+                        <th width="30%">@item.Autor</th>
+                        <th width="30%">@item.Tema</th>
+                        <th width="30%">@item.Editorial</th>
+                        <th width="20%">@item.AnioPublicacion</th>
+                        <th width="20%">@item.Paginas</th>
+                        <th width="30%">@item.Categoria</th>
+                        <th>
+                            <div class="w-75 btn-group" role="group">
+                                <a asp-controller="Libro" asp-action="Editar" asp-route-Id="@item.Id" class="btn btn-primary mx-2">Editar</a>
+                                <a asp-controller="Libro" asp-action="Eliminar" asp-route-Id="@item.Id" class="btn btn-primary mx-2">Eliminar</a>
+                            </div>
+                        </th>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No hay registros de Libros</p>
+    }
+
+</div>

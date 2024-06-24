@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\views\\home\\librodise\u00F1o.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\views\\home\\librodise\u00F1o.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\views\\home\\libroarquitectura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\views\\home\\libroarquitectura.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\controllers\\librocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\views\\libro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\views\\libro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\views\\libro\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\views\\libro\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\views\\libro\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|c:\\proyectos visual\\t3_delcastillo_josemiguel\\t3_delcastillo_josemiguel\\migrations\\20240621212750_scaffoldidentityrazorclasslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D03DBC-4FC0-455A-A1F1-A2A8B331FB3A}|T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj|solutionrelative:t3_delcastillo_josemiguel\\migrations\\20240621212750_scaffoldidentityrazorclasslib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T23:18:19.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Libro\\Index.cshtml",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Views\\Libro\\Index.cshtml",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Libro\\Index.cshtml",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Views\\Libro\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T18:24:39.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Models\\Libro.cs",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Models\\Libro.cs",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Models\\Libro.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:08:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroController.cs",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Controllers\\LibroController.cs",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Controllers\\LibroController.cs",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Controllers\\LibroController.cs",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Controllers\\LibroController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwEwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:23:17.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T20:27:03.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:07:04.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibroArquitectura.cshtml",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Home\\LibroArquitectura.cshtml",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Views\\Home\\LibroArquitectura.cshtml",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Home\\LibroArquitectura.cshtml",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Views\\Home\\LibroArquitectura.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:43:43.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibroDise\u00F1o.cshtml",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Home\\LibroDise\u00F1o.cshtml",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Views\\Home\\LibroDise\u00F1o.cshtml",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Home\\LibroDise\u00F1o.cshtml",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Views\\Home\\LibroDise\u00F1o.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:51:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Program.cs",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Program.cs",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Program.cs",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:18:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Datos\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:14:29.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Libro\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Views\\Libro\\Eliminar.cshtml",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Libro\\Eliminar.cshtml",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Views\\Libro\\Eliminar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:16:46.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T22:01:30.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Libro\\Editar.cshtml",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Views\\Libro\\Editar.cshtml",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Libro\\Editar.cshtml",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Views\\Libro\\Editar.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T20:35:38.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\appsettings.json",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\appsettings.json",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\appsettings.json",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T18:11:43.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T21:47:19.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240621212750_scaffoldidentityRazorClassLib.cs",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Migrations\\20240621212750_scaffoldidentityRazorClassLib.cs",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\Migrations\\20240621212750_scaffoldidentityRazorClassLib.cs",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\Migrations\\20240621212750_scaffoldidentityRazorClassLib.cs",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\Migrations\\20240621212750_scaffoldidentityRazorClassLib.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:27:50.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-21T21:29:43.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "T3_DelCastillo_JoseMiguel.csproj",
+              "DocumentMoniker": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj",
+              "RelativeDocumentMoniker": "T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj",
+              "ToolTip": "C:\\Proyectos VISUAL\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj",
+              "RelativeToolTip": "T3_DelCastillo_JoseMiguel\\T3_DelCastillo_JoseMiguel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-21T18:13:49.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
